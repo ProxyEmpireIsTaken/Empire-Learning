@@ -7,21 +7,21 @@ function paramount () {
     });
 
 }
-function velocity () {
+function hyper () {
 
     window.navigator.serviceWorker.register('/sw.js', {
         scope: __uv$config.prefix
     }).then(() => {
-        location.href=__uv$config.prefix + __uv$config.encodeUrl('https://velocity.radon.games');
+        location.href=__uv$config.prefix + __uv$config.encodeUrl('https://hypertabs--xgamesx.repl.co/');
     });
 
 }
-function radon () {
+function ruby () {
 
     window.navigator.serviceWorker.register('/sw.js', {
         scope: __uv$config.prefix
     }).then(() => {
-        location.href=__uv$config.prefix + __uv$config.encodeUrl('https://radon.games');
+        location.href=__uv$config.prefix + __uv$config.encodeUrl('https://rubynetwork.tech');
     });
 
 }
