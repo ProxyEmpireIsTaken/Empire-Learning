@@ -891,17 +891,17 @@ function ourDiscord () {
 
 
 function patreon () {
-    window.location.href = 'https://patreon.com/SnorlaxCave';
+    window.location.href = 'https://patreon.com/';
 }
 
 function email () {
-    window.location.href = 'birdy@snorlaxscave.site';
+    window.location.href = 'ProxyEmpireLLC@mail.com';
 }
 
 
 
 function ourgithub () {
-    window.location.href = 'https://github.com/SPS-Services/cave-v1';
+    window.location.href = 'https://github.com/ProxyEmpireIsTaken/Empire-Learning/';
 }
 
 function pluto () {
